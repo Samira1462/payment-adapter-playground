@@ -32,15 +32,6 @@ This approach:
    ```bash
    git clone https://github.com/Samira1462/payment-adapter-playground.git
    cd payment-adapter-playground
-  ```   
-
-
-     ```bash
-   mvn clean install
-   
-   ```bash
-   mvn spring-boot:run
-   
-
+  ```
 
 
