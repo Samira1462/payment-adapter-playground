@@ -32,6 +32,5 @@ This approach:
    ```bash
    git clone https://github.com/Samira1462/payment-adapter-playground.git
    cd payment-adapter-playground
-  ```
 
 
